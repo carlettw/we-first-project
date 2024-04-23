@@ -1,0 +1,20 @@
+body{
+    background-color: #FFDAB9;
+    font-style: italic;
+    
+
+}
+.table-style{
+    margin: 0%;
+    
+}
+.text-style{
+    background-color: burlywood;
+}
+.button-style{
+    background-color: aqua;
+}
+:disabled{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkorange;
+}
